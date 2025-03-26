@@ -71,9 +71,9 @@ Se utilizan herramientas como Postman para enviar datos de prueba. Algunos ejemp
 ### Ejemplo Platos:
 ```json
 {
-"nombre": "Croissant",
-"descripcion": "Bollo de mantequilla típico del desayuno francés.",
-"tipo": "Desayuno",
+    "nombre": "Croissant",
+    "descripcion": "Bollo de mantequilla típico del desayuno francés.",
+    "tipo": "Desayuno",
 }
 ```
 ## 📌 Notas
