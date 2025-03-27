@@ -63,17 +63,19 @@ Se utilizan herramientas como Postman para enviar datos de prueba. Algunos ejemp
 ### Ejemplo Lugares:
 ```json
 {
-    "nombre": "Torre Eiffel",
-    "descripcion": "El monumento más icónico de París.",
-    "direccion": "Champ de Mars, 5 Avenue Anatole France",
+  "nombre": "Torre Eiffel",
+  "descripcion": "El monumento más icónico de París.",
+  "direccion": "Champ de Mars, 5 Avenue Anatole France",
+  "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg"
 }
 ```
 ### Ejemplo Platos:
 ```json
 {
-    "nombre": "Croissant",
-    "descripcion": "Bollo de mantequilla típico del desayuno francés.",
-    "tipo": "Desayuno",
+  "nombre": "Croissant",
+  "descripcion": "Bollo de mantequilla típico del desayuno francés.",
+  "tipo": "Desayuno",
+  "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Croissant_Wikimedia.jpg"
 }
 ```
 ## 📌 Notas
