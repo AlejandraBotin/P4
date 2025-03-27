@@ -9,7 +9,7 @@ Este proyecto implementa una API REST con Spring Boot para gestionar:
 
 ---
 
-## 🔧 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Java 17
 - Spring Boot 3.4.3
@@ -20,7 +20,7 @@ Este proyecto implementa una API REST con Spring Boot para gestionar:
 
 ---
 
-## 🚀 ¿Cómo ejecutar?
+## ¿Cómo se ejecuta?
 
 1. Se clona o se descarga este repositorio
 2. Se abre el proyecto con IntelliJ
@@ -29,7 +29,7 @@ Este proyecto implementa una API REST con Spring Boot para gestionar:
 
 ---
 
-## 📂 Endpoints disponibles
+## Endpoints disponibles
 
 ### 📍 Lugares turísticos
 
@@ -55,7 +55,7 @@ Este proyecto implementa una API REST con Spring Boot para gestionar:
 
 ---
 
-## 🧪 Datos de ejemplo
+## Datos de ejemplo
 
 
 Se utilizan herramientas como Postman para enviar datos de prueba. Algunos ejemplos están incluidos en JSON debajo:
@@ -78,7 +78,7 @@ Se utilizan herramientas como Postman para enviar datos de prueba. Algunos ejemp
   "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Croissant_Wikimedia.jpg"
 }
 ```
-## 📌 Notas
+## Notas
 
 - La base de datos es en memoria (H2) y se reinicia cada vez que se ejecuta la aplicación.
 - Se puede acceder a la consola H2 en `http://localhost:8080/h2-console`
