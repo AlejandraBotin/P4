@@ -25,7 +25,7 @@ Este proyecto implementa una API REST con Spring Boot para gestionar:
 1. Se clona o se descarga este repositorio
 2. Se abre el proyecto con IntelliJ
 3. Se ejecuta la clase `MvcApplication.java`
-4. Se accede a `http://localhost:8080` para probar los endpoints
+4. Se accede a `http://localhost:8080/lugares` y a `http://localhost:8080/platos` para probar los endpoints
 
 ---
 
